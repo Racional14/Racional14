@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Racional14
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning python
+- 📫 How to reach me email
